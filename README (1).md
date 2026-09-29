@@ -67,6 +67,6 @@ This project demonstrates the use of Power BI for transforming raw Shopify data 
 
 ## 👩‍💻 Author
 
-**Archana Devi M**
+**RAKSHANA**
 
 ---
